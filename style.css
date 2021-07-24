@@ -1,0 +1,63 @@
+body{
+  font-family: 'Lato', sans-serif;
+  background: url("https://rossaprimavera.ru/static/files/79f128a0ab93.jpg");
+}
+img{
+    display: flex;
+    width: 450px;
+    margin-right: auto;
+    margin-left: auto;
+}
+div{
+        background-color: white;
+           margin-left: auto;
+   margin-right: auto;
+   width: 900px;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 27px;
+}
+h3{
+    font-size: 25px;
+}
+h2{
+    font-size: 36px;
+    text-align: center;
+}
+.fo{
+    font-size: 19px;
+}
+.f{
+    background-color: wheat;
+    color: black;
+    border-radius: 20px;
+    padding: 10px;
+    text-decoration: none;
+        font-size: 25px;
+}
+.f:hover{
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 20px;
+    transition: 3s ease-out;
+}
+footer{
+    background-image: 
+    linear-gradient(to left bottom, DodgerBlue, SpringGreen);
+    border-radius: 15px;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(204, 202, 202);
+
+}
+a:hover{
+    background-color: rgb(204, 202, 202);
+    padding: 10px;
+    transition: ease-in-out 1s;
+    color: black;
+}
